@@ -1,5 +1,5 @@
 ```
-$ git clone
+$ git clone https://github.com/nymalone/react-video-chat
 
 $ cd /react-video-chat
 
@@ -8,6 +8,8 @@ $ npm install
 $ npm start
 
   # running on port :8000
+  
+$ cd ..
 
 $ cd client
 
